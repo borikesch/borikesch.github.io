@@ -5,6 +5,10 @@
 
 footer {
     text-align: center;
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(94, 0, 16);
+    color: #eee;
 }
 
 header {
@@ -13,9 +17,5 @@ header {
 
 section {
     text-align: center;
-}
-
-.row {
-    background-color: #aaa;
 }
 
