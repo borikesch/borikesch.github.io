@@ -2,6 +2,17 @@ body {
     background-color: #aaa;
 }
 
-h1 {
+footer {
     text-align: center;
+    background-color: #bbb;
+}
+
+header {
+    text-align: center;
+    background-color: #bbb;
+}
+
+section {
+    text-align: center;
+    background-color: #ccc;
 }
