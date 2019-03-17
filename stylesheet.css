@@ -17,6 +17,7 @@ header {
 
 section {
     text-align: center;
+    max-width: 1200px;
 }
 
 html { 
@@ -25,9 +26,5 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-  }
+}
 
-  .content {
-      width: 50%;
-      margin: auto
-  }
