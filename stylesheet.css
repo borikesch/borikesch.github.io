@@ -21,7 +21,7 @@ section {
 }
 
 html { 
-    background: url(assets/landscape-2124022.jpg) no-repeat center center fixed; 
+    background-color: #eeeeee;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
